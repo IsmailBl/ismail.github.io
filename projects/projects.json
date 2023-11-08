@@ -2,7 +2,7 @@
   {
     "name": "Robocup : Small-Sized League",
     "desc": "Prometheus is a small-sized robot designed for competitive robot soccer in the Small-Sized League. ",
-    "image": "prometheus",
+    "image": "./assets/images/projects/prometheus.png",
     "category": "robotics",
     "links": {
       "view": "https://grabcad.com/library/prometheus-omnidirectional-robocup-robot-1",
@@ -12,7 +12,7 @@
   {
     "name": "Continuous Galvanizing Emulator",
     "desc": "The CAD design showcases a scaled-down model of a continuous galvanizing line, a tool that emulating the process.",
-    "image": "galva2",
+    "image": "./assets/images/projects/galva2.png",
     "category": "robotics",
     "links": {
       "view": "https://grabcad.com/library/continuous-galvanizing-line-process-1",
@@ -22,7 +22,7 @@
   {
     "name": "Osiris Robot",
     "desc": "Osiris: A 3D-printed autonomous robot geared up to be to follow a path independently and steer clear of obstacles",
-    "image": "osiris",
+    "image": "./assets/images/projects/osiris.png",
     "category": "robotics",
     "links": {
       "view": "https://grabcad.com/library/hermes-4wd-robot-1",
